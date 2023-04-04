@@ -1,0 +1,14 @@
+.nav-link {
+    text-decoration: none;
+    color: green;
+    padding: 10px 20px;
+    font-weight: 600;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+.active {
+    border-bottom: 2px solid black;
+}
